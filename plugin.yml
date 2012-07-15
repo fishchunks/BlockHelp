@@ -1,0 +1,8 @@
+name: BlockHelp
+main: com.infamousdiamond.BlockHelp.BlockHelp
+version: 0.1.0
+website: www.infamousdiamond.com/plugins.html
+commands:
+    BlockHelp:
+        description: Shows block information
+        aliases: BHelp
